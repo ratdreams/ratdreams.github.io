@@ -1,6 +1,6 @@
 ---
 title: lyrics
-list-style-type: none
+list-style-type: 
 ---
 
 ## In December
@@ -39,11 +39,11 @@ in summer
 
 when it rains, it pours
 
-the earth didn’t need the word
-(the earth did not need word)
-no, form did not come first
-(no, form did not come first)
-to see some beauty cannot save us
-but i guess it couldn’t hurt
+the earth didn’t need the word  
+(the earth did not need word)  
+no, form did not come first  
+(no, form did not come first)  
+to see some beauty cannot save us  
+but i guess it couldn’t hurt  
 
 (the earth does not need word)
