@@ -4,9 +4,9 @@ title: home
 ---
 
 # <: 3
-## folk songs & experiments from athens, oh
+### folk songs & experiments from athens, oh
 
-### this is a header
+## Six Postcards
 this is some content underneath the header
 
 <div>
@@ -14,7 +14,7 @@ this is some content underneath the header
 </div>
 <br>
 
-### and this is more content
+## In December
 
 <div>
   <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3479343799/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/transparent=true/" seamless><a href="https://ratdreams.bandcamp.com/album/in-december">In December by rat dreams</a></iframe>
