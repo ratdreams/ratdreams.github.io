@@ -1,5 +1,3 @@
-<title>rat dreams</title>
-
 ## folk songs & experiments from athens, oh
 
 ### this is a header
