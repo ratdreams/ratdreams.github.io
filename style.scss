@@ -2,3 +2,34 @@
 ---
 
 @import "{{ site.theme }}";
+
+<style>
+body {
+	text-align: left;
+}
+
+h1   {color: #C20059; font-family: helvetica; font-size: 42pt;}
+h2   {color: #C20059; font-family: helvetica; font-size: 26pt;}
+h3   {color: goldenrod; font-family: courier; font-size: 13pt;}
+h4   {color: black; font-family: courier;}
+p    {color: black; font-family: helvetica;}
+
+a:link {
+	color: #C20059; text-decoration: none;
+}
+
+a:visited {
+	color: #C20059; text-decoration: none;
+}
+
+a:hover {
+	color: #C20059; text-decoration: underline;
+}
+
+body {
+  padding-top: 50px;
+  padding-right: 150px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+</style>
