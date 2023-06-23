@@ -4,6 +4,8 @@ title: home
 ---
 ###  <:3  folk songs & experiments from athens, oh
 
+![rats](rats.png)
+
 # Six Postcards
 this is some content underneath the header
 
