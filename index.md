@@ -1,4 +1,7 @@
-<title>rat dreams</title>
+---
+layout: default
+title: ratz
+---
 
 ## folk songs & experiments from athens, oh
 
