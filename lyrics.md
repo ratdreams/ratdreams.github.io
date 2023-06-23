@@ -1,3 +1,7 @@
+---
+title: lyrics
+---
+
 # In December
 ## 1. When it rains, it pours
 
