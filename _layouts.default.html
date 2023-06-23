@@ -2,13 +2,11 @@
 layout: base
 ---
 
-var {
-  page.title: rat dreams;
-}
+<title>rat dreams</title>
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ rat dreams }}</h1>
+    <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
