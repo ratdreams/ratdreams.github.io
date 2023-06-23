@@ -1,5 +1,6 @@
 ---
 title: lyrics
+list-style-type: none
 ---
 
 ## In December
@@ -29,12 +30,12 @@ in summer
 
 
 
-> when it rains, it pours
-> and white noises drown out all our words
-> well, it’s the sound of every sound at once
-> on a pallet you wonder, how did all of this start?
-> and who’ll make note of it
-> when it’s over?
+- when it rains, it pours
+- and white noises drown out all our words
+- well, it’s the sound of every sound at once
+- on a pallet you wonder, how did all of this start?
+- and who’ll make note of it
+- when it’s over?
 
 when it rains, it pours
 
