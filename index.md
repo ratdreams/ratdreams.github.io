@@ -2,7 +2,7 @@
 layout: default
 title: home
 ---
-### folk songs & experiments from athens, oh   <:3
+###  <:3  folk songs & experiments from athens, oh
 
 # Six Postcards
 this is some content underneath the header
