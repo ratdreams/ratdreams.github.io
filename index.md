@@ -1,5 +1,6 @@
 ---
 layout: default
+title: home
 ---
 
 ## folk songs & experiments from athens, oh
