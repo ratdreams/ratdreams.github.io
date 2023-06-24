@@ -1,8 +1,7 @@
 ---
 layout: default
-title: home
 ---
-###  <:3  folk songs & experiments
+###  **<:3**  folk songs & experiments
 ![the rats](rats.jpg)
 
 
