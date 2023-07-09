@@ -1,1 +1,4 @@
+---
 title: shows
+layout: default
+---
