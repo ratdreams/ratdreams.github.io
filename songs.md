@@ -1,5 +1,5 @@
 ---
-title: lyrics
+title: songs
 list-style-type: 
 ---
 
