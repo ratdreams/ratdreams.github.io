@@ -1,6 +1,5 @@
 ---
 layout: default
-title: home
 ---
 
 ###  **<:3**  folk songs & experiments
