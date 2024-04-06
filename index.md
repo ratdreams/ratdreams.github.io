@@ -5,6 +5,11 @@ layout: default
 
 ![the rats](rats2.jpg)
 
+hello, we are rat dreams and this is our website. we play folk-rock music and experimental instrumental music and sometimes we play both at the same time. [[link?]] 
+
+# news
+
+# shows
 
 # discography
 ## Six Postcards
