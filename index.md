@@ -3,7 +3,7 @@ title: home
 layout: default
 ---
 
-![the rats](rats.jpg)
+![the rats](rats2.jpg)
 
 
 # discography
