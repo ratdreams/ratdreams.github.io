@@ -7,7 +7,8 @@ layout: default
 
 hello, we are rat dreams and this is our website. we play folk-rock music and experimental instrumental music and sometimes we play both at the same time. [[link?]] 
 
-# news
+# contact
+for booking inquiries or just to say hi, email ratdreams.music@gmail.com.
 
 # shows
 
