@@ -11,6 +11,7 @@ hello, we are rat dreams and this is our website. we play folk-rock music and ex
 for booking inquiries or just to say hi, email ratdreams.music@gmail.com.
 
 # shows
+4/20 — secret show
 
 # discography
 ## Six Postcards
