@@ -1,5 +1,5 @@
 ---
-title: rats
+title: home
 layout: default
 ---
 
