@@ -3,7 +3,6 @@ title: rats
 layout: default
 ---
 
-###  **<:3**  folk songs & experiments
 ![the rats](rats.jpg)
 
 
